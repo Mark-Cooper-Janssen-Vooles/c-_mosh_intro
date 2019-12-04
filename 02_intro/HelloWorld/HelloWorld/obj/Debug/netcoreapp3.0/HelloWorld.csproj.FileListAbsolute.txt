@@ -1,0 +1,11 @@
+/Users/mark/C#_Mosh_Beginner/02_intro/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.0/HelloWorld
+/Users/mark/C#_Mosh_Beginner/02_intro/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.0/HelloWorld.deps.json
+/Users/mark/C#_Mosh_Beginner/02_intro/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.0/HelloWorld.runtimeconfig.json
+/Users/mark/C#_Mosh_Beginner/02_intro/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.0/HelloWorld.runtimeconfig.dev.json
+/Users/mark/C#_Mosh_Beginner/02_intro/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.0/HelloWorld.dll
+/Users/mark/C#_Mosh_Beginner/02_intro/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.0/HelloWorld.pdb
+/Users/mark/C#_Mosh_Beginner/02_intro/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.0/HelloWorld.csprojAssemblyReference.cache
+/Users/mark/C#_Mosh_Beginner/02_intro/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/mark/C#_Mosh_Beginner/02_intro/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.0/HelloWorld.AssemblyInfo.cs
+/Users/mark/C#_Mosh_Beginner/02_intro/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.0/HelloWorld.dll
+/Users/mark/C#_Mosh_Beginner/02_intro/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.0/HelloWorld.pdb
