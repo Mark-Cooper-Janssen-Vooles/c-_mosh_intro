@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{4C181D02-D520-4EBE-AE69-73CC4C629DB4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="28_classes/Program.cs">
+    <Files>
+      <File FileName="28_classes/Program.cs" Line="31" Column="110" />
+      <File FileName="28_classes/Person.cs" Line="10" Column="33" />
+      <File FileName="28_classes/Calculator.cs" Line="12" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="28_classes" expanded="True">
+            <Node name="28_classes" expanded="True">
+              <Node name="math" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.28__classes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

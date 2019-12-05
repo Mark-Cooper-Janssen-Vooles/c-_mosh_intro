@@ -1,0 +1,11 @@
+/Users/mark/C#_Mosh_Beginner/04_nonPrimitiveTypes/35_enums_vs/35_enums_vs/bin/Debug/netcoreapp3.0/35_enums_vs
+/Users/mark/C#_Mosh_Beginner/04_nonPrimitiveTypes/35_enums_vs/35_enums_vs/bin/Debug/netcoreapp3.0/35_enums_vs.deps.json
+/Users/mark/C#_Mosh_Beginner/04_nonPrimitiveTypes/35_enums_vs/35_enums_vs/bin/Debug/netcoreapp3.0/35_enums_vs.runtimeconfig.json
+/Users/mark/C#_Mosh_Beginner/04_nonPrimitiveTypes/35_enums_vs/35_enums_vs/bin/Debug/netcoreapp3.0/35_enums_vs.runtimeconfig.dev.json
+/Users/mark/C#_Mosh_Beginner/04_nonPrimitiveTypes/35_enums_vs/35_enums_vs/bin/Debug/netcoreapp3.0/35_enums_vs.dll
+/Users/mark/C#_Mosh_Beginner/04_nonPrimitiveTypes/35_enums_vs/35_enums_vs/bin/Debug/netcoreapp3.0/35_enums_vs.pdb
+/Users/mark/C#_Mosh_Beginner/04_nonPrimitiveTypes/35_enums_vs/35_enums_vs/obj/Debug/netcoreapp3.0/35_enums_vs.csprojAssemblyReference.cache
+/Users/mark/C#_Mosh_Beginner/04_nonPrimitiveTypes/35_enums_vs/35_enums_vs/obj/Debug/netcoreapp3.0/35_enums_vs.AssemblyInfoInputs.cache
+/Users/mark/C#_Mosh_Beginner/04_nonPrimitiveTypes/35_enums_vs/35_enums_vs/obj/Debug/netcoreapp3.0/35_enums_vs.AssemblyInfo.cs
+/Users/mark/C#_Mosh_Beginner/04_nonPrimitiveTypes/35_enums_vs/35_enums_vs/obj/Debug/netcoreapp3.0/35_enums_vs.dll
+/Users/mark/C#_Mosh_Beginner/04_nonPrimitiveTypes/35_enums_vs/35_enums_vs/obj/Debug/netcoreapp3.0/35_enums_vs.pdb

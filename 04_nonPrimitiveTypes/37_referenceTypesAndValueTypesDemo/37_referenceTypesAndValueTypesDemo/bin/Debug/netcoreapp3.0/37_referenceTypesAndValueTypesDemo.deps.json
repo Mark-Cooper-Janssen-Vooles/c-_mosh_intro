@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "37_referenceTypesAndValueTypesDemo/1.0.0": {
+        "runtime": {
+          "37_referenceTypesAndValueTypesDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "37_referenceTypesAndValueTypesDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

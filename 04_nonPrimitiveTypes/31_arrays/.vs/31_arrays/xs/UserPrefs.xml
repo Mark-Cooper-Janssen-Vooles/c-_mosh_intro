@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{74E5024D-FCE8-4CDC-9B4C-6E85E51355AE}|Default">
+  <MonoDevelop.Ide.ItemProperties.31__arrays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="31_arrays/Program.cs">
+    <Files>
+      <File FileName="31_arrays/Program.cs" Line="21" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="31_arrays" expanded="True">
+            <Node name="31_arrays" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

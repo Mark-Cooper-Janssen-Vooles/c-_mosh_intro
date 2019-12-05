@@ -1,0 +1,11 @@
+/Users/mark/Projects/28_classes/28_classes/bin/Debug/netcoreapp3.0/28_classes
+/Users/mark/Projects/28_classes/28_classes/bin/Debug/netcoreapp3.0/28_classes.deps.json
+/Users/mark/Projects/28_classes/28_classes/bin/Debug/netcoreapp3.0/28_classes.runtimeconfig.json
+/Users/mark/Projects/28_classes/28_classes/bin/Debug/netcoreapp3.0/28_classes.runtimeconfig.dev.json
+/Users/mark/Projects/28_classes/28_classes/bin/Debug/netcoreapp3.0/28_classes.dll
+/Users/mark/Projects/28_classes/28_classes/bin/Debug/netcoreapp3.0/28_classes.pdb
+/Users/mark/Projects/28_classes/28_classes/obj/Debug/netcoreapp3.0/28_classes.csprojAssemblyReference.cache
+/Users/mark/Projects/28_classes/28_classes/obj/Debug/netcoreapp3.0/28_classes.AssemblyInfoInputs.cache
+/Users/mark/Projects/28_classes/28_classes/obj/Debug/netcoreapp3.0/28_classes.AssemblyInfo.cs
+/Users/mark/Projects/28_classes/28_classes/obj/Debug/netcoreapp3.0/28_classes.dll
+/Users/mark/Projects/28_classes/28_classes/obj/Debug/netcoreapp3.0/28_classes.pdb

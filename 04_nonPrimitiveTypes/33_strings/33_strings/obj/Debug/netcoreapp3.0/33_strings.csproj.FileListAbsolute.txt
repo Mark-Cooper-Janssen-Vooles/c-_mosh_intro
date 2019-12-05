@@ -1,0 +1,11 @@
+/Users/mark/C#_Mosh_Beginner/04_nonPrimitiveTypes/33_strings/33_strings/bin/Debug/netcoreapp3.0/33_strings
+/Users/mark/C#_Mosh_Beginner/04_nonPrimitiveTypes/33_strings/33_strings/bin/Debug/netcoreapp3.0/33_strings.deps.json
+/Users/mark/C#_Mosh_Beginner/04_nonPrimitiveTypes/33_strings/33_strings/bin/Debug/netcoreapp3.0/33_strings.runtimeconfig.json
+/Users/mark/C#_Mosh_Beginner/04_nonPrimitiveTypes/33_strings/33_strings/bin/Debug/netcoreapp3.0/33_strings.runtimeconfig.dev.json
+/Users/mark/C#_Mosh_Beginner/04_nonPrimitiveTypes/33_strings/33_strings/bin/Debug/netcoreapp3.0/33_strings.dll
+/Users/mark/C#_Mosh_Beginner/04_nonPrimitiveTypes/33_strings/33_strings/bin/Debug/netcoreapp3.0/33_strings.pdb
+/Users/mark/C#_Mosh_Beginner/04_nonPrimitiveTypes/33_strings/33_strings/obj/Debug/netcoreapp3.0/33_strings.csprojAssemblyReference.cache
+/Users/mark/C#_Mosh_Beginner/04_nonPrimitiveTypes/33_strings/33_strings/obj/Debug/netcoreapp3.0/33_strings.AssemblyInfoInputs.cache
+/Users/mark/C#_Mosh_Beginner/04_nonPrimitiveTypes/33_strings/33_strings/obj/Debug/netcoreapp3.0/33_strings.AssemblyInfo.cs
+/Users/mark/C#_Mosh_Beginner/04_nonPrimitiveTypes/33_strings/33_strings/obj/Debug/netcoreapp3.0/33_strings.dll
+/Users/mark/C#_Mosh_Beginner/04_nonPrimitiveTypes/33_strings/33_strings/obj/Debug/netcoreapp3.0/33_strings.pdb
