@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{BAF71219-B823-4CF4-9091-49E2CFD868C0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="20_typeConversion/Program.cs">
+    <Files>
+      <File FileName="20_typeConversion/Program.cs" Line="76" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="20_typeConversion" expanded="True">
+            <Node name="20_typeConversion" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.20__typeConversion PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

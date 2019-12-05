@@ -1,0 +1,11 @@
+/Users/mark/C#_Mosh_Beginner/03_primitiveTypesAndExpressions/23_operators/23_operators/bin/Debug/netcoreapp3.0/23_operators
+/Users/mark/C#_Mosh_Beginner/03_primitiveTypesAndExpressions/23_operators/23_operators/bin/Debug/netcoreapp3.0/23_operators.deps.json
+/Users/mark/C#_Mosh_Beginner/03_primitiveTypesAndExpressions/23_operators/23_operators/bin/Debug/netcoreapp3.0/23_operators.runtimeconfig.json
+/Users/mark/C#_Mosh_Beginner/03_primitiveTypesAndExpressions/23_operators/23_operators/bin/Debug/netcoreapp3.0/23_operators.runtimeconfig.dev.json
+/Users/mark/C#_Mosh_Beginner/03_primitiveTypesAndExpressions/23_operators/23_operators/bin/Debug/netcoreapp3.0/23_operators.dll
+/Users/mark/C#_Mosh_Beginner/03_primitiveTypesAndExpressions/23_operators/23_operators/bin/Debug/netcoreapp3.0/23_operators.pdb
+/Users/mark/C#_Mosh_Beginner/03_primitiveTypesAndExpressions/23_operators/23_operators/obj/Debug/netcoreapp3.0/23_operators.csprojAssemblyReference.cache
+/Users/mark/C#_Mosh_Beginner/03_primitiveTypesAndExpressions/23_operators/23_operators/obj/Debug/netcoreapp3.0/23_operators.AssemblyInfoInputs.cache
+/Users/mark/C#_Mosh_Beginner/03_primitiveTypesAndExpressions/23_operators/23_operators/obj/Debug/netcoreapp3.0/23_operators.AssemblyInfo.cs
+/Users/mark/C#_Mosh_Beginner/03_primitiveTypesAndExpressions/23_operators/23_operators/obj/Debug/netcoreapp3.0/23_operators.dll
+/Users/mark/C#_Mosh_Beginner/03_primitiveTypesAndExpressions/23_operators/23_operators/obj/Debug/netcoreapp3.0/23_operators.pdb

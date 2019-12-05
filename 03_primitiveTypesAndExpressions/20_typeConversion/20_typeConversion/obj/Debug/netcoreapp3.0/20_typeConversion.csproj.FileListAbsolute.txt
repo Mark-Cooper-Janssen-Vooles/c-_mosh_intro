@@ -1,0 +1,11 @@
+/Users/mark/C#_Mosh_Beginner/03_primitiveTypesAndExpressions/20_typeConversion/20_typeConversion/bin/Debug/netcoreapp3.0/20_typeConversion
+/Users/mark/C#_Mosh_Beginner/03_primitiveTypesAndExpressions/20_typeConversion/20_typeConversion/bin/Debug/netcoreapp3.0/20_typeConversion.deps.json
+/Users/mark/C#_Mosh_Beginner/03_primitiveTypesAndExpressions/20_typeConversion/20_typeConversion/bin/Debug/netcoreapp3.0/20_typeConversion.runtimeconfig.json
+/Users/mark/C#_Mosh_Beginner/03_primitiveTypesAndExpressions/20_typeConversion/20_typeConversion/bin/Debug/netcoreapp3.0/20_typeConversion.runtimeconfig.dev.json
+/Users/mark/C#_Mosh_Beginner/03_primitiveTypesAndExpressions/20_typeConversion/20_typeConversion/bin/Debug/netcoreapp3.0/20_typeConversion.dll
+/Users/mark/C#_Mosh_Beginner/03_primitiveTypesAndExpressions/20_typeConversion/20_typeConversion/bin/Debug/netcoreapp3.0/20_typeConversion.pdb
+/Users/mark/C#_Mosh_Beginner/03_primitiveTypesAndExpressions/20_typeConversion/20_typeConversion/obj/Debug/netcoreapp3.0/20_typeConversion.csprojAssemblyReference.cache
+/Users/mark/C#_Mosh_Beginner/03_primitiveTypesAndExpressions/20_typeConversion/20_typeConversion/obj/Debug/netcoreapp3.0/20_typeConversion.AssemblyInfoInputs.cache
+/Users/mark/C#_Mosh_Beginner/03_primitiveTypesAndExpressions/20_typeConversion/20_typeConversion/obj/Debug/netcoreapp3.0/20_typeConversion.AssemblyInfo.cs
+/Users/mark/C#_Mosh_Beginner/03_primitiveTypesAndExpressions/20_typeConversion/20_typeConversion/obj/Debug/netcoreapp3.0/20_typeConversion.dll
+/Users/mark/C#_Mosh_Beginner/03_primitiveTypesAndExpressions/20_typeConversion/20_typeConversion/obj/Debug/netcoreapp3.0/20_typeConversion.pdb

@@ -13,3 +13,7 @@ A block is indicated by curly braces. Heres three blocks of code:
     }
   }
 }
+
+a is accessible in the a block, b block and c block. 
+b is accessible in the b block and c block.
+c is only accessible in the c block.
