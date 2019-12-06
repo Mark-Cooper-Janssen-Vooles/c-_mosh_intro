@@ -1,0 +1,11 @@
+/Users/mark/C#_Mosh_Beginner/07_workingWithDates/59_dateTime/59_dateTime/bin/Debug/netcoreapp3.0/59_dateTime
+/Users/mark/C#_Mosh_Beginner/07_workingWithDates/59_dateTime/59_dateTime/bin/Debug/netcoreapp3.0/59_dateTime.deps.json
+/Users/mark/C#_Mosh_Beginner/07_workingWithDates/59_dateTime/59_dateTime/bin/Debug/netcoreapp3.0/59_dateTime.runtimeconfig.json
+/Users/mark/C#_Mosh_Beginner/07_workingWithDates/59_dateTime/59_dateTime/bin/Debug/netcoreapp3.0/59_dateTime.runtimeconfig.dev.json
+/Users/mark/C#_Mosh_Beginner/07_workingWithDates/59_dateTime/59_dateTime/bin/Debug/netcoreapp3.0/59_dateTime.dll
+/Users/mark/C#_Mosh_Beginner/07_workingWithDates/59_dateTime/59_dateTime/bin/Debug/netcoreapp3.0/59_dateTime.pdb
+/Users/mark/C#_Mosh_Beginner/07_workingWithDates/59_dateTime/59_dateTime/obj/Debug/netcoreapp3.0/59_dateTime.csprojAssemblyReference.cache
+/Users/mark/C#_Mosh_Beginner/07_workingWithDates/59_dateTime/59_dateTime/obj/Debug/netcoreapp3.0/59_dateTime.AssemblyInfoInputs.cache
+/Users/mark/C#_Mosh_Beginner/07_workingWithDates/59_dateTime/59_dateTime/obj/Debug/netcoreapp3.0/59_dateTime.AssemblyInfo.cs
+/Users/mark/C#_Mosh_Beginner/07_workingWithDates/59_dateTime/59_dateTime/obj/Debug/netcoreapp3.0/59_dateTime.dll
+/Users/mark/C#_Mosh_Beginner/07_workingWithDates/59_dateTime/59_dateTime/obj/Debug/netcoreapp3.0/59_dateTime.pdb

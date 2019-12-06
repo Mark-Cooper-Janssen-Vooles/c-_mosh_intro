@@ -1,0 +1,11 @@
+/Users/mark/C#_Mosh_Beginner/07_workingWithDates/60_timeSpan/60_timeSpan/bin/Debug/netcoreapp3.0/60_timeSpan
+/Users/mark/C#_Mosh_Beginner/07_workingWithDates/60_timeSpan/60_timeSpan/bin/Debug/netcoreapp3.0/60_timeSpan.deps.json
+/Users/mark/C#_Mosh_Beginner/07_workingWithDates/60_timeSpan/60_timeSpan/bin/Debug/netcoreapp3.0/60_timeSpan.runtimeconfig.json
+/Users/mark/C#_Mosh_Beginner/07_workingWithDates/60_timeSpan/60_timeSpan/bin/Debug/netcoreapp3.0/60_timeSpan.runtimeconfig.dev.json
+/Users/mark/C#_Mosh_Beginner/07_workingWithDates/60_timeSpan/60_timeSpan/bin/Debug/netcoreapp3.0/60_timeSpan.dll
+/Users/mark/C#_Mosh_Beginner/07_workingWithDates/60_timeSpan/60_timeSpan/bin/Debug/netcoreapp3.0/60_timeSpan.pdb
+/Users/mark/C#_Mosh_Beginner/07_workingWithDates/60_timeSpan/60_timeSpan/obj/Debug/netcoreapp3.0/60_timeSpan.csprojAssemblyReference.cache
+/Users/mark/C#_Mosh_Beginner/07_workingWithDates/60_timeSpan/60_timeSpan/obj/Debug/netcoreapp3.0/60_timeSpan.AssemblyInfoInputs.cache
+/Users/mark/C#_Mosh_Beginner/07_workingWithDates/60_timeSpan/60_timeSpan/obj/Debug/netcoreapp3.0/60_timeSpan.AssemblyInfo.cs
+/Users/mark/C#_Mosh_Beginner/07_workingWithDates/60_timeSpan/60_timeSpan/obj/Debug/netcoreapp3.0/60_timeSpan.dll
+/Users/mark/C#_Mosh_Beginner/07_workingWithDates/60_timeSpan/60_timeSpan/obj/Debug/netcoreapp3.0/60_timeSpan.pdb
