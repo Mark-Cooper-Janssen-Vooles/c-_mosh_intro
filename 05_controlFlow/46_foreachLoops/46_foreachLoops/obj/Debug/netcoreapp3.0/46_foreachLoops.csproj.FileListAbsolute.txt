@@ -1,0 +1,11 @@
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/46_foreachLoops/46_foreachLoops/bin/Debug/netcoreapp3.0/46_foreachLoops
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/46_foreachLoops/46_foreachLoops/bin/Debug/netcoreapp3.0/46_foreachLoops.deps.json
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/46_foreachLoops/46_foreachLoops/bin/Debug/netcoreapp3.0/46_foreachLoops.runtimeconfig.json
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/46_foreachLoops/46_foreachLoops/bin/Debug/netcoreapp3.0/46_foreachLoops.runtimeconfig.dev.json
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/46_foreachLoops/46_foreachLoops/bin/Debug/netcoreapp3.0/46_foreachLoops.dll
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/46_foreachLoops/46_foreachLoops/bin/Debug/netcoreapp3.0/46_foreachLoops.pdb
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/46_foreachLoops/46_foreachLoops/obj/Debug/netcoreapp3.0/46_foreachLoops.csprojAssemblyReference.cache
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/46_foreachLoops/46_foreachLoops/obj/Debug/netcoreapp3.0/46_foreachLoops.AssemblyInfoInputs.cache
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/46_foreachLoops/46_foreachLoops/obj/Debug/netcoreapp3.0/46_foreachLoops.AssemblyInfo.cs
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/46_foreachLoops/46_foreachLoops/obj/Debug/netcoreapp3.0/46_foreachLoops.dll
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/46_foreachLoops/46_foreachLoops/obj/Debug/netcoreapp3.0/46_foreachLoops.pdb

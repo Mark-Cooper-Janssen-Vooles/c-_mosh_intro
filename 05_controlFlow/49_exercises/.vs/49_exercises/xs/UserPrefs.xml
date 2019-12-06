@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{79B46D4B-4A35-4694-B276-C82ED8F5A44E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="38_valueReferenceTypesCont/Program.cs">
+﻿<Properties StartupConfiguration="{99E24A4E-5F4F-4D5B-89A7-33FF4F9EE8E4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="49_exercises/Program.cs">
     <Files>
-      <File FileName="38_valueReferenceTypesCont/Program.cs" Line="22" Column="62" />
+      <File FileName="49_exercises/Program.cs" Line="103" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="38_valueReferenceTypesCont" expanded="True">
-            <Node name="38_valueReferenceTypesCont" expanded="True">
+          <Node name="49_exercises" expanded="True">
+            <Node name="49_exercises" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -21,5 +21,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.38__valueReferenceTypesCont PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.49__exercises PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

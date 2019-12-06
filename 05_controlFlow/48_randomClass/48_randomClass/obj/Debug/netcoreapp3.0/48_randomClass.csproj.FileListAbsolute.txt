@@ -1,0 +1,11 @@
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/48_randomClass/48_randomClass/bin/Debug/netcoreapp3.0/48_randomClass
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/48_randomClass/48_randomClass/bin/Debug/netcoreapp3.0/48_randomClass.deps.json
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/48_randomClass/48_randomClass/bin/Debug/netcoreapp3.0/48_randomClass.runtimeconfig.json
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/48_randomClass/48_randomClass/bin/Debug/netcoreapp3.0/48_randomClass.runtimeconfig.dev.json
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/48_randomClass/48_randomClass/bin/Debug/netcoreapp3.0/48_randomClass.dll
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/48_randomClass/48_randomClass/bin/Debug/netcoreapp3.0/48_randomClass.pdb
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/48_randomClass/48_randomClass/obj/Debug/netcoreapp3.0/48_randomClass.csprojAssemblyReference.cache
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/48_randomClass/48_randomClass/obj/Debug/netcoreapp3.0/48_randomClass.AssemblyInfoInputs.cache
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/48_randomClass/48_randomClass/obj/Debug/netcoreapp3.0/48_randomClass.AssemblyInfo.cs
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/48_randomClass/48_randomClass/obj/Debug/netcoreapp3.0/48_randomClass.dll
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/48_randomClass/48_randomClass/obj/Debug/netcoreapp3.0/48_randomClass.pdb

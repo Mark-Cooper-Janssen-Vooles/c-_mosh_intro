@@ -1,0 +1,11 @@
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/45_forLoops/45_forLoops/bin/Debug/netcoreapp3.0/45_forLoops
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/45_forLoops/45_forLoops/bin/Debug/netcoreapp3.0/45_forLoops.deps.json
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/45_forLoops/45_forLoops/bin/Debug/netcoreapp3.0/45_forLoops.runtimeconfig.json
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/45_forLoops/45_forLoops/bin/Debug/netcoreapp3.0/45_forLoops.runtimeconfig.dev.json
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/45_forLoops/45_forLoops/bin/Debug/netcoreapp3.0/45_forLoops.dll
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/45_forLoops/45_forLoops/bin/Debug/netcoreapp3.0/45_forLoops.pdb
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/45_forLoops/45_forLoops/obj/Debug/netcoreapp3.0/45_forLoops.csprojAssemblyReference.cache
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/45_forLoops/45_forLoops/obj/Debug/netcoreapp3.0/45_forLoops.AssemblyInfoInputs.cache
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/45_forLoops/45_forLoops/obj/Debug/netcoreapp3.0/45_forLoops.AssemblyInfo.cs
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/45_forLoops/45_forLoops/obj/Debug/netcoreapp3.0/45_forLoops.dll
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/45_forLoops/45_forLoops/obj/Debug/netcoreapp3.0/45_forLoops.pdb

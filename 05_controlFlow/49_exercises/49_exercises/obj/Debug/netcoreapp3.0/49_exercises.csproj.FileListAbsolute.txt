@@ -1,0 +1,11 @@
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/49_exercises/49_exercises/bin/Debug/netcoreapp3.0/49_exercises
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/49_exercises/49_exercises/bin/Debug/netcoreapp3.0/49_exercises.deps.json
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/49_exercises/49_exercises/bin/Debug/netcoreapp3.0/49_exercises.runtimeconfig.json
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/49_exercises/49_exercises/bin/Debug/netcoreapp3.0/49_exercises.runtimeconfig.dev.json
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/49_exercises/49_exercises/bin/Debug/netcoreapp3.0/49_exercises.dll
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/49_exercises/49_exercises/bin/Debug/netcoreapp3.0/49_exercises.pdb
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/49_exercises/49_exercises/obj/Debug/netcoreapp3.0/49_exercises.csprojAssemblyReference.cache
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/49_exercises/49_exercises/obj/Debug/netcoreapp3.0/49_exercises.AssemblyInfoInputs.cache
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/49_exercises/49_exercises/obj/Debug/netcoreapp3.0/49_exercises.AssemblyInfo.cs
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/49_exercises/49_exercises/obj/Debug/netcoreapp3.0/49_exercises.dll
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/49_exercises/49_exercises/obj/Debug/netcoreapp3.0/49_exercises.pdb

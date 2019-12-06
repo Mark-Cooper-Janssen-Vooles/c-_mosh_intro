@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "45_forLoops/1.0.0": {
+        "runtime": {
+          "45_forLoops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "45_forLoops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

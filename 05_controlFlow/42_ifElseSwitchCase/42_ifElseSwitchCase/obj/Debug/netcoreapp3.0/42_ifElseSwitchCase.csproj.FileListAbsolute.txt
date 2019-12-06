@@ -1,0 +1,11 @@
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/42_ifElseSwitchCase/42_ifElseSwitchCase/bin/Debug/netcoreapp3.0/42_ifElseSwitchCase
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/42_ifElseSwitchCase/42_ifElseSwitchCase/bin/Debug/netcoreapp3.0/42_ifElseSwitchCase.deps.json
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/42_ifElseSwitchCase/42_ifElseSwitchCase/bin/Debug/netcoreapp3.0/42_ifElseSwitchCase.runtimeconfig.json
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/42_ifElseSwitchCase/42_ifElseSwitchCase/bin/Debug/netcoreapp3.0/42_ifElseSwitchCase.runtimeconfig.dev.json
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/42_ifElseSwitchCase/42_ifElseSwitchCase/bin/Debug/netcoreapp3.0/42_ifElseSwitchCase.dll
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/42_ifElseSwitchCase/42_ifElseSwitchCase/bin/Debug/netcoreapp3.0/42_ifElseSwitchCase.pdb
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/42_ifElseSwitchCase/42_ifElseSwitchCase/obj/Debug/netcoreapp3.0/42_ifElseSwitchCase.csprojAssemblyReference.cache
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/42_ifElseSwitchCase/42_ifElseSwitchCase/obj/Debug/netcoreapp3.0/42_ifElseSwitchCase.AssemblyInfoInputs.cache
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/42_ifElseSwitchCase/42_ifElseSwitchCase/obj/Debug/netcoreapp3.0/42_ifElseSwitchCase.AssemblyInfo.cs
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/42_ifElseSwitchCase/42_ifElseSwitchCase/obj/Debug/netcoreapp3.0/42_ifElseSwitchCase.dll
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/42_ifElseSwitchCase/42_ifElseSwitchCase/obj/Debug/netcoreapp3.0/42_ifElseSwitchCase.pdb

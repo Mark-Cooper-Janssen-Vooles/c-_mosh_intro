@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{42665141-18E5-41F1-A65A-A0B700F42112}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="42_ifElseSwitchCase/Program.cs">
+    <Files>
+      <File FileName="42_ifElseSwitchCase/Program.cs" Line="46" Column="27" />
+      <File FileName="42_ifElseSwitchCase/EmptyEnumeration.cs" Line="9" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="42_ifElseSwitchCase" expanded="True">
+            <Node name="42_ifElseSwitchCase" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.42__ifElseSwitchCase PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

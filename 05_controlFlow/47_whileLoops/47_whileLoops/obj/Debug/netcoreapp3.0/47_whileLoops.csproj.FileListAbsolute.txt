@@ -1,0 +1,11 @@
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/47_whileLoops/47_whileLoops/bin/Debug/netcoreapp3.0/47_whileLoops
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/47_whileLoops/47_whileLoops/bin/Debug/netcoreapp3.0/47_whileLoops.deps.json
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/47_whileLoops/47_whileLoops/bin/Debug/netcoreapp3.0/47_whileLoops.runtimeconfig.json
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/47_whileLoops/47_whileLoops/bin/Debug/netcoreapp3.0/47_whileLoops.runtimeconfig.dev.json
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/47_whileLoops/47_whileLoops/bin/Debug/netcoreapp3.0/47_whileLoops.dll
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/47_whileLoops/47_whileLoops/bin/Debug/netcoreapp3.0/47_whileLoops.pdb
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/47_whileLoops/47_whileLoops/obj/Debug/netcoreapp3.0/47_whileLoops.csprojAssemblyReference.cache
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/47_whileLoops/47_whileLoops/obj/Debug/netcoreapp3.0/47_whileLoops.AssemblyInfoInputs.cache
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/47_whileLoops/47_whileLoops/obj/Debug/netcoreapp3.0/47_whileLoops.AssemblyInfo.cs
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/47_whileLoops/47_whileLoops/obj/Debug/netcoreapp3.0/47_whileLoops.dll
+/Users/mark/C#_Mosh_Beginner/05_controlFlow/47_whileLoops/47_whileLoops/obj/Debug/netcoreapp3.0/47_whileLoops.pdb
