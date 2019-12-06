@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{16586ACA-C95D-47C6-A9D9-DC153E2FA04B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="53_arrays/Program.cs">
+    <Files>
+      <File FileName="53_arrays/Program.cs" Line="57" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="53_arrays" expanded="True">
+            <Node name="53_arrays" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.53__arrays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

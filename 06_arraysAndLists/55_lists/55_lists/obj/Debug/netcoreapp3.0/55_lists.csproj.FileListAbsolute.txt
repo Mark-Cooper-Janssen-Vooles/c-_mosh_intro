@@ -1,0 +1,11 @@
+/Users/mark/C#_Mosh_Beginner/06_arraysAndLists/55_lists/55_lists/bin/Debug/netcoreapp3.0/55_lists
+/Users/mark/C#_Mosh_Beginner/06_arraysAndLists/55_lists/55_lists/bin/Debug/netcoreapp3.0/55_lists.deps.json
+/Users/mark/C#_Mosh_Beginner/06_arraysAndLists/55_lists/55_lists/bin/Debug/netcoreapp3.0/55_lists.runtimeconfig.json
+/Users/mark/C#_Mosh_Beginner/06_arraysAndLists/55_lists/55_lists/bin/Debug/netcoreapp3.0/55_lists.runtimeconfig.dev.json
+/Users/mark/C#_Mosh_Beginner/06_arraysAndLists/55_lists/55_lists/bin/Debug/netcoreapp3.0/55_lists.dll
+/Users/mark/C#_Mosh_Beginner/06_arraysAndLists/55_lists/55_lists/bin/Debug/netcoreapp3.0/55_lists.pdb
+/Users/mark/C#_Mosh_Beginner/06_arraysAndLists/55_lists/55_lists/obj/Debug/netcoreapp3.0/55_lists.csprojAssemblyReference.cache
+/Users/mark/C#_Mosh_Beginner/06_arraysAndLists/55_lists/55_lists/obj/Debug/netcoreapp3.0/55_lists.AssemblyInfoInputs.cache
+/Users/mark/C#_Mosh_Beginner/06_arraysAndLists/55_lists/55_lists/obj/Debug/netcoreapp3.0/55_lists.AssemblyInfo.cs
+/Users/mark/C#_Mosh_Beginner/06_arraysAndLists/55_lists/55_lists/obj/Debug/netcoreapp3.0/55_lists.dll
+/Users/mark/C#_Mosh_Beginner/06_arraysAndLists/55_lists/55_lists/obj/Debug/netcoreapp3.0/55_lists.pdb
