@@ -17,8 +17,41 @@ namespace _68_textChallenges
             //Console.WriteLine(thirdChallenge());
 
             //4th challenge:
-            Console.WriteLine(fourthChallenge());
+            //Console.WriteLine(fourthChallenge());
 
+
+            //5th challenge:
+            Console.WriteLine("Enter an english word:");
+            var aWord = Console.ReadLine().ToLower();
+
+            int numberOfVowels = 0;
+
+            for (int i = 0; i < aWord.Length; i++)
+            {
+
+                switch (aWord[i])
+                {
+                    case 'a':
+                        numberOfVowels++;
+                        break;
+                    case 'e':
+                        numberOfVowels++;
+                        break;
+                    case 'i':
+                        numberOfVowels++;
+                        break;
+                    case 'o':
+                        numberOfVowels++;
+                        break;
+                    case 'u':
+                        numberOfVowels++;
+                        break;
+                    default:
+                        break;
+                }
+            }
+
+            Console.WriteLine(numberOfVowels);
 
         }
         static string firstChallenge()
