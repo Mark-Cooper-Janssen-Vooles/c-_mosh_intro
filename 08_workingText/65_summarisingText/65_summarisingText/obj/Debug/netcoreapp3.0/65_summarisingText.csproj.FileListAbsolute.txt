@@ -1,0 +1,11 @@
+/Users/mark/C#_Mosh_Beginner/08_workingText/65_summarisingText/65_summarisingText/bin/Debug/netcoreapp3.0/65_summarisingText
+/Users/mark/C#_Mosh_Beginner/08_workingText/65_summarisingText/65_summarisingText/bin/Debug/netcoreapp3.0/65_summarisingText.deps.json
+/Users/mark/C#_Mosh_Beginner/08_workingText/65_summarisingText/65_summarisingText/bin/Debug/netcoreapp3.0/65_summarisingText.runtimeconfig.json
+/Users/mark/C#_Mosh_Beginner/08_workingText/65_summarisingText/65_summarisingText/bin/Debug/netcoreapp3.0/65_summarisingText.runtimeconfig.dev.json
+/Users/mark/C#_Mosh_Beginner/08_workingText/65_summarisingText/65_summarisingText/bin/Debug/netcoreapp3.0/65_summarisingText.dll
+/Users/mark/C#_Mosh_Beginner/08_workingText/65_summarisingText/65_summarisingText/bin/Debug/netcoreapp3.0/65_summarisingText.pdb
+/Users/mark/C#_Mosh_Beginner/08_workingText/65_summarisingText/65_summarisingText/obj/Debug/netcoreapp3.0/65_summarisingText.csprojAssemblyReference.cache
+/Users/mark/C#_Mosh_Beginner/08_workingText/65_summarisingText/65_summarisingText/obj/Debug/netcoreapp3.0/65_summarisingText.AssemblyInfoInputs.cache
+/Users/mark/C#_Mosh_Beginner/08_workingText/65_summarisingText/65_summarisingText/obj/Debug/netcoreapp3.0/65_summarisingText.AssemblyInfo.cs
+/Users/mark/C#_Mosh_Beginner/08_workingText/65_summarisingText/65_summarisingText/obj/Debug/netcoreapp3.0/65_summarisingText.dll
+/Users/mark/C#_Mosh_Beginner/08_workingText/65_summarisingText/65_summarisingText/obj/Debug/netcoreapp3.0/65_summarisingText.pdb

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{1740C5C3-1811-4D6D-B1F9-8CA8BF50AB03}|Default">
+  <MonoDevelop.Ide.ItemProperties.65__summarisingText PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="65_summarisingText/Program.cs">
+    <Files>
+      <File FileName="65_summarisingText/Program.cs" Line="13" Column="10" />
+      <File FileName="65_summarisingText/StringUtility.cs" Line="7" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="65_summarisingText" expanded="True">
+            <Node name="65_summarisingText" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/mark/C#_Mosh_Beginner/08_workingText/64_string/64_string/bin/Debug/netcoreapp3.0/64_string
+/Users/mark/C#_Mosh_Beginner/08_workingText/64_string/64_string/bin/Debug/netcoreapp3.0/64_string.deps.json
+/Users/mark/C#_Mosh_Beginner/08_workingText/64_string/64_string/bin/Debug/netcoreapp3.0/64_string.runtimeconfig.json
+/Users/mark/C#_Mosh_Beginner/08_workingText/64_string/64_string/bin/Debug/netcoreapp3.0/64_string.runtimeconfig.dev.json
+/Users/mark/C#_Mosh_Beginner/08_workingText/64_string/64_string/bin/Debug/netcoreapp3.0/64_string.dll
+/Users/mark/C#_Mosh_Beginner/08_workingText/64_string/64_string/bin/Debug/netcoreapp3.0/64_string.pdb
+/Users/mark/C#_Mosh_Beginner/08_workingText/64_string/64_string/obj/Debug/netcoreapp3.0/64_string.csprojAssemblyReference.cache
+/Users/mark/C#_Mosh_Beginner/08_workingText/64_string/64_string/obj/Debug/netcoreapp3.0/64_string.AssemblyInfoInputs.cache
+/Users/mark/C#_Mosh_Beginner/08_workingText/64_string/64_string/obj/Debug/netcoreapp3.0/64_string.AssemblyInfo.cs
+/Users/mark/C#_Mosh_Beginner/08_workingText/64_string/64_string/obj/Debug/netcoreapp3.0/64_string.dll
+/Users/mark/C#_Mosh_Beginner/08_workingText/64_string/64_string/obj/Debug/netcoreapp3.0/64_string.pdb

@@ -1,0 +1,11 @@
+/Users/mark/C#_Mosh_Beginner/08_workingText/67_stringBuilder/67_stringBuilder/bin/Debug/netcoreapp3.0/67_stringBuilder
+/Users/mark/C#_Mosh_Beginner/08_workingText/67_stringBuilder/67_stringBuilder/bin/Debug/netcoreapp3.0/67_stringBuilder.deps.json
+/Users/mark/C#_Mosh_Beginner/08_workingText/67_stringBuilder/67_stringBuilder/bin/Debug/netcoreapp3.0/67_stringBuilder.runtimeconfig.json
+/Users/mark/C#_Mosh_Beginner/08_workingText/67_stringBuilder/67_stringBuilder/bin/Debug/netcoreapp3.0/67_stringBuilder.runtimeconfig.dev.json
+/Users/mark/C#_Mosh_Beginner/08_workingText/67_stringBuilder/67_stringBuilder/bin/Debug/netcoreapp3.0/67_stringBuilder.dll
+/Users/mark/C#_Mosh_Beginner/08_workingText/67_stringBuilder/67_stringBuilder/bin/Debug/netcoreapp3.0/67_stringBuilder.pdb
+/Users/mark/C#_Mosh_Beginner/08_workingText/67_stringBuilder/67_stringBuilder/obj/Debug/netcoreapp3.0/67_stringBuilder.csprojAssemblyReference.cache
+/Users/mark/C#_Mosh_Beginner/08_workingText/67_stringBuilder/67_stringBuilder/obj/Debug/netcoreapp3.0/67_stringBuilder.AssemblyInfoInputs.cache
+/Users/mark/C#_Mosh_Beginner/08_workingText/67_stringBuilder/67_stringBuilder/obj/Debug/netcoreapp3.0/67_stringBuilder.AssemblyInfo.cs
+/Users/mark/C#_Mosh_Beginner/08_workingText/67_stringBuilder/67_stringBuilder/obj/Debug/netcoreapp3.0/67_stringBuilder.dll
+/Users/mark/C#_Mosh_Beginner/08_workingText/67_stringBuilder/67_stringBuilder/obj/Debug/netcoreapp3.0/67_stringBuilder.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "65_summarisingText/1.0.0": {
+        "runtime": {
+          "65_summarisingText.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "65_summarisingText/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

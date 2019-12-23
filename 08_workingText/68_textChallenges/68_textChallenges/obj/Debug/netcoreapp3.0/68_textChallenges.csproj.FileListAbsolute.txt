@@ -1,0 +1,11 @@
+/Users/mark/C#_Mosh_Beginner/08_workingText/68_textChallenges/68_textChallenges/bin/Debug/netcoreapp3.0/68_textChallenges
+/Users/mark/C#_Mosh_Beginner/08_workingText/68_textChallenges/68_textChallenges/bin/Debug/netcoreapp3.0/68_textChallenges.deps.json
+/Users/mark/C#_Mosh_Beginner/08_workingText/68_textChallenges/68_textChallenges/bin/Debug/netcoreapp3.0/68_textChallenges.runtimeconfig.json
+/Users/mark/C#_Mosh_Beginner/08_workingText/68_textChallenges/68_textChallenges/bin/Debug/netcoreapp3.0/68_textChallenges.runtimeconfig.dev.json
+/Users/mark/C#_Mosh_Beginner/08_workingText/68_textChallenges/68_textChallenges/bin/Debug/netcoreapp3.0/68_textChallenges.dll
+/Users/mark/C#_Mosh_Beginner/08_workingText/68_textChallenges/68_textChallenges/bin/Debug/netcoreapp3.0/68_textChallenges.pdb
+/Users/mark/C#_Mosh_Beginner/08_workingText/68_textChallenges/68_textChallenges/obj/Debug/netcoreapp3.0/68_textChallenges.csprojAssemblyReference.cache
+/Users/mark/C#_Mosh_Beginner/08_workingText/68_textChallenges/68_textChallenges/obj/Debug/netcoreapp3.0/68_textChallenges.AssemblyInfoInputs.cache
+/Users/mark/C#_Mosh_Beginner/08_workingText/68_textChallenges/68_textChallenges/obj/Debug/netcoreapp3.0/68_textChallenges.AssemblyInfo.cs
+/Users/mark/C#_Mosh_Beginner/08_workingText/68_textChallenges/68_textChallenges/obj/Debug/netcoreapp3.0/68_textChallenges.dll
+/Users/mark/C#_Mosh_Beginner/08_workingText/68_textChallenges/68_textChallenges/obj/Debug/netcoreapp3.0/68_textChallenges.pdb
