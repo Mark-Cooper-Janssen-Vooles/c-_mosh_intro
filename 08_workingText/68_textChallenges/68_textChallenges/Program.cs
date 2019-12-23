@@ -13,7 +13,11 @@ namespace _68_textChallenges
             //2nd challenge:
             //Console.WriteLine(secondChallenge() );
 
+            //3rd challegE:
+            //Console.WriteLine(thirdChallenge());
 
+            //4th challenge:
+            Console.WriteLine(fourthChallenge());
 
 
         }
@@ -109,6 +113,50 @@ namespace _68_textChallenges
                     return "No Dpulicates";
                 }
             }
+        }
+
+        static string thirdChallenge()
+        {
+            Console.WriteLine("Enter a time value in 24 hour time format, i.e. 19:00");
+
+            var time = Console.ReadLine();
+
+            var timeArray = time.Split(":");
+
+            var hours = Convert.ToInt64(timeArray[0]);
+            var minutes = Convert.ToInt64(timeArray[1]);
+
+            if ((hours >= 0 && hours <= 24) && (minutes >= 0 && minutes <= 60))
+            {
+                return "Ok";
+            }
+            else
+            {
+                return "Invalid time";
+            }
+
+        }
+
+        static string fourthChallenge()
+        {
+            Console.WriteLine("Enter a few words seperated by a space, i.e. 'number of students'");
+
+            var someString = Console.ReadLine();
+
+
+            var someArray = someString.Split(" ");
+            var someList = new List<string>(someArray);
+
+            for (int i = 0; i < someList.Count; i++)
+            {
+                someList[i] = someList[i].ToLower();
+
+                someList[i] = char.ToUpper(someList[i][0]) + someList[i].Substring(1);
+            }
+
+            //join list
+            var finalWord = String.Join("", someList);
+            return finalWord;
         }
 
     }
