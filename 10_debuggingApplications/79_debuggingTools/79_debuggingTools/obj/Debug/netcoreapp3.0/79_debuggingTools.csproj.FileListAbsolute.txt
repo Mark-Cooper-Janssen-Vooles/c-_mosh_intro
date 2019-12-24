@@ -1,0 +1,11 @@
+/Users/mark/C#_Mosh_Beginner/10_debuggingApplications/79_debuggingTools/79_debuggingTools/bin/Debug/netcoreapp3.0/79_debuggingTools
+/Users/mark/C#_Mosh_Beginner/10_debuggingApplications/79_debuggingTools/79_debuggingTools/bin/Debug/netcoreapp3.0/79_debuggingTools.deps.json
+/Users/mark/C#_Mosh_Beginner/10_debuggingApplications/79_debuggingTools/79_debuggingTools/bin/Debug/netcoreapp3.0/79_debuggingTools.runtimeconfig.json
+/Users/mark/C#_Mosh_Beginner/10_debuggingApplications/79_debuggingTools/79_debuggingTools/bin/Debug/netcoreapp3.0/79_debuggingTools.runtimeconfig.dev.json
+/Users/mark/C#_Mosh_Beginner/10_debuggingApplications/79_debuggingTools/79_debuggingTools/bin/Debug/netcoreapp3.0/79_debuggingTools.dll
+/Users/mark/C#_Mosh_Beginner/10_debuggingApplications/79_debuggingTools/79_debuggingTools/bin/Debug/netcoreapp3.0/79_debuggingTools.pdb
+/Users/mark/C#_Mosh_Beginner/10_debuggingApplications/79_debuggingTools/79_debuggingTools/obj/Debug/netcoreapp3.0/79_debuggingTools.csprojAssemblyReference.cache
+/Users/mark/C#_Mosh_Beginner/10_debuggingApplications/79_debuggingTools/79_debuggingTools/obj/Debug/netcoreapp3.0/79_debuggingTools.AssemblyInfoInputs.cache
+/Users/mark/C#_Mosh_Beginner/10_debuggingApplications/79_debuggingTools/79_debuggingTools/obj/Debug/netcoreapp3.0/79_debuggingTools.AssemblyInfo.cs
+/Users/mark/C#_Mosh_Beginner/10_debuggingApplications/79_debuggingTools/79_debuggingTools/obj/Debug/netcoreapp3.0/79_debuggingTools.dll
+/Users/mark/C#_Mosh_Beginner/10_debuggingApplications/79_debuggingTools/79_debuggingTools/obj/Debug/netcoreapp3.0/79_debuggingTools.pdb

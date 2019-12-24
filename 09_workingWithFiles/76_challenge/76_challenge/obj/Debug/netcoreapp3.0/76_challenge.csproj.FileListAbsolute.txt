@@ -1,0 +1,11 @@
+/Users/mark/C#_Mosh_Beginner/09_workingWithFiles/76_challenge/76_challenge/bin/Debug/netcoreapp3.0/76_challenge
+/Users/mark/C#_Mosh_Beginner/09_workingWithFiles/76_challenge/76_challenge/bin/Debug/netcoreapp3.0/76_challenge.deps.json
+/Users/mark/C#_Mosh_Beginner/09_workingWithFiles/76_challenge/76_challenge/bin/Debug/netcoreapp3.0/76_challenge.runtimeconfig.json
+/Users/mark/C#_Mosh_Beginner/09_workingWithFiles/76_challenge/76_challenge/bin/Debug/netcoreapp3.0/76_challenge.runtimeconfig.dev.json
+/Users/mark/C#_Mosh_Beginner/09_workingWithFiles/76_challenge/76_challenge/bin/Debug/netcoreapp3.0/76_challenge.dll
+/Users/mark/C#_Mosh_Beginner/09_workingWithFiles/76_challenge/76_challenge/bin/Debug/netcoreapp3.0/76_challenge.pdb
+/Users/mark/C#_Mosh_Beginner/09_workingWithFiles/76_challenge/76_challenge/obj/Debug/netcoreapp3.0/76_challenge.csprojAssemblyReference.cache
+/Users/mark/C#_Mosh_Beginner/09_workingWithFiles/76_challenge/76_challenge/obj/Debug/netcoreapp3.0/76_challenge.AssemblyInfoInputs.cache
+/Users/mark/C#_Mosh_Beginner/09_workingWithFiles/76_challenge/76_challenge/obj/Debug/netcoreapp3.0/76_challenge.AssemblyInfo.cs
+/Users/mark/C#_Mosh_Beginner/09_workingWithFiles/76_challenge/76_challenge/obj/Debug/netcoreapp3.0/76_challenge.dll
+/Users/mark/C#_Mosh_Beginner/09_workingWithFiles/76_challenge/76_challenge/obj/Debug/netcoreapp3.0/76_challenge.pdb

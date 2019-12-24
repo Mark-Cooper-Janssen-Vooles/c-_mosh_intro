@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{F53D08D8-A39E-4673-9B4B-F35FF04CCD78}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="68_textChallenges/Program.cs">
+﻿<Properties StartupConfiguration="{7FB8EB55-FE7F-4F28-8FD4-9BBCC02B04D3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="73_FileAndFileInfo/Program.cs">
     <Files>
-      <File FileName="68_textChallenges/Program.cs" Line="23" Column="29" />
+      <File FileName="73_FileAndFileInfo/Program.cs" Line="42" Column="102" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="68_textChallenges" expanded="True">
-            <Node name="68_textChallenges" expanded="True">
+          <Node name="73_FileAndFileInfo" expanded="True">
+            <Node name="73_FileAndFileInfo" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,8 +15,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.73__FileAndFileInfo FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.68__textChallenges PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

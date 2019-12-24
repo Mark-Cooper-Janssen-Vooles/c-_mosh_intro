@@ -1,0 +1,11 @@
+/Users/mark/C#_Mosh_Beginner/09_workingWithFiles/75_Path/75_Path/bin/Debug/netcoreapp3.0/75_Path
+/Users/mark/C#_Mosh_Beginner/09_workingWithFiles/75_Path/75_Path/bin/Debug/netcoreapp3.0/75_Path.deps.json
+/Users/mark/C#_Mosh_Beginner/09_workingWithFiles/75_Path/75_Path/bin/Debug/netcoreapp3.0/75_Path.runtimeconfig.json
+/Users/mark/C#_Mosh_Beginner/09_workingWithFiles/75_Path/75_Path/bin/Debug/netcoreapp3.0/75_Path.runtimeconfig.dev.json
+/Users/mark/C#_Mosh_Beginner/09_workingWithFiles/75_Path/75_Path/bin/Debug/netcoreapp3.0/75_Path.dll
+/Users/mark/C#_Mosh_Beginner/09_workingWithFiles/75_Path/75_Path/bin/Debug/netcoreapp3.0/75_Path.pdb
+/Users/mark/C#_Mosh_Beginner/09_workingWithFiles/75_Path/75_Path/obj/Debug/netcoreapp3.0/75_Path.csprojAssemblyReference.cache
+/Users/mark/C#_Mosh_Beginner/09_workingWithFiles/75_Path/75_Path/obj/Debug/netcoreapp3.0/75_Path.AssemblyInfoInputs.cache
+/Users/mark/C#_Mosh_Beginner/09_workingWithFiles/75_Path/75_Path/obj/Debug/netcoreapp3.0/75_Path.AssemblyInfo.cs
+/Users/mark/C#_Mosh_Beginner/09_workingWithFiles/75_Path/75_Path/obj/Debug/netcoreapp3.0/75_Path.dll
+/Users/mark/C#_Mosh_Beginner/09_workingWithFiles/75_Path/75_Path/obj/Debug/netcoreapp3.0/75_Path.pdb
